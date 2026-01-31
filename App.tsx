@@ -15,23 +15,23 @@ import { NavigationLinks, ProjectImage, BlogPost } from './types';
 
 // Import blog images
 import grassImg from './images/grass.jpg';
-import img1 from './images/1.jpg';
-import img2 from './images/2.jpg';
-import img3 from './images/3.jpg';
-import img4 from './images/4.jpg';
-import img5 from './images/5.jpg';
-import img6 from './images/6.jpg';
-import img7 from './images/7.jpg';
-import img8 from './images/8.jpg';
-import img9 from './images/9.jpg';
-import img10 from './images/10.jpg';
-import img11 from './images/11.jpg';
-import img12 from './images/12.jpg';
-import img15 from './images/15.jpg';
-import img16 from './images/16.jpg';
-import img17 from './images/17.jpg';
-import img18 from './images/18.jpg';
-import img19 from './images/19.jpg';
+import img1 from './images/1.webp';
+import img2 from './images/2.webp';
+import img3 from './images/3.webp';
+import img4 from './images/4.webp';
+import img5 from './images/5.webp';
+import img6 from './images/6.webp';
+import img7 from './images/7.webp';
+import img8 from './images/8.webp';
+import img9 from './images/9.webp';
+import img10 from './images/10.webp';
+import img11 from './images/11.webp';
+import img12 from './images/12.webp';
+import img15 from './images/15.webp';
+import img16 from './images/16.webp';
+import img17 from './images/17.webp';
+import img18 from './images/18.webp';
+import img19 from './images/19.webp';
 
 
 import img21 from './images/arrows.png';
