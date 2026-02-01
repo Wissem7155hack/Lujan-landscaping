@@ -917,7 +917,7 @@ const AboutPreview = () => (
           <div className="relative w-full max-w-lg mx-auto lg:mx-0">
             <div className="absolute -top-4 -left-4 md:-top-6 md:-left-6 w-full h-full border border-gold-500/30 z-0"></div>
             <img
-              src="images/7.jpg"
+              src="images/7.webp"
               alt="Work of Lujan landscaping"
               className="relative z-10 w-full h-[400px] md:h-[600px] object-cover shadow-2xl"
             />

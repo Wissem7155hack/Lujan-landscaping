@@ -5,9 +5,8 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
-  // Use a relative base so the built `dist` works on root or subpath hosts.
-  // This avoids absolute `/RepoName/` URLs which can 404 on custom domains.
-  const base = './';
+  // GitHub Pages deployment requires the repository name in the base path
+  const base = '/Lujan-landscaping/';
 
   return {
     base,
