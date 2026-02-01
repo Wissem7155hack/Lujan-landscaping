@@ -37,11 +37,11 @@ import img19 from './images/19.webp';
 import img21 from './images/arrows.png';
 import img22 from './images/grasshero2.png';
 import img23 from './images/beautifully-maintained-green-lawn.jpg';
-import img24 from './images/logo.png';
+import img24 from './images/L.png';
 import img25 from './images/logo_white.jpg';
 
 
-import { url } from 'inspector';
+
 
 
 
@@ -2005,7 +2005,7 @@ const App = () => {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/Lujan-landscaping/">
       <ScrollToTop />
 
       <div className="flex flex-col min-h-screen overflow-x-hidden font-sans text-earth-900 selection:bg-gold-500 selection:text-white bg-stone-50">
